@@ -65,7 +65,7 @@ document object model
 **9.** What are the `9` ECMAScript types as defined by MDN?
 <!-- enter you answer in the space below -->
 ```
-
+boolean, null, undefined, number, string, nan, bigint, symbol, objects
 ```
 **10.** When it comes to functions or methods, what is the difference between a `parameter` and an `argument`?
 <!-- enter you answer in the space below -->
@@ -75,5 +75,5 @@ parameter is a placeholder for data like a variable or raw data. and an argument
 **11.** What is the difference between a `primitive` value and a `reference` value?
 <!-- enter you answer in the space below -->
 ```
-
+primitive types are line number,string, boolean, not defined, novalue. reference types are like a variable storing info. like an array or an object.
 ```

@@ -9,7 +9,7 @@ name space is how other files are connected. if it is in the same name space you
 **2.** What is the difference between a `class` and a `struct`?
 <!-- enter you answer in the space below -->
 ```
-
+struct are value types and classes are reference types
 ```
 **3.** What is the method that returns an instance of a class, yet it has no return type?
 <!-- enter you answer in the space below -->
@@ -40,17 +40,17 @@ meaning this method will return a string.
 **7.** In the example what is `abstract` preventing?
 <!-- enter you answer in the space below -->
 ```
-
+The abstract modifier indicates that the thing being modified has a missing or incomplete implementation
 ```
 **8.** In the example what is the purpose of `virtual`?
 <!-- enter you answer in the space below -->
 ```
-
+ a virtual method has an implementation in a base class as well as derived the class.
 ```
 **9.** Name four access modifiers:
 <!-- enter you answer in the space below -->
 ```
-
+public, private, protected, internal
 ```
 **10.** If you set a class or method to private, what can access it?
 <!-- enter you answer in the space below -->
